@@ -12,8 +12,8 @@ Besides, based on my programming experience, I do know that you can learn a lot 
 So, why not?
 
 ## Aim
-[ ] Document my process about whatever I have learnt while building it.
-[ ] Try to rewrite this editor in another language like Python or Rust
-[ ] Build a habit to learn technologies using the Project Based Learning approach
+- [ ] Document my process about whatever I have learnt while building it.
+- [ ] Try to rewrite this editor in another language like Python or Rust
+- [ ] Build a habit to learn technologies using the Project Based Learning approach
 
 Let's hope that I'm able to finish this! :D
